@@ -1,0 +1,41 @@
+track mES-100
+bigDataUrl K9-ESC-100.bw
+shortLabel K9ac Signal
+longLabel K9ac Signal of mES(100Cell)
+type bigWig
+
+track mES-200
+bigDataUrl K9-ESC-200.bw
+shortLabel K9ac Signal
+longLabel K9ac Signal of mES(200Cell)
+type bigWig
+
+track mES-500
+bigDataUrl K9-ESC-500.bw
+shortLabel K9ac Signal
+longLabel K9ac Signal of mES(500Cell)
+type bigWig
+
+track mES-1000
+bigDataUrl K9-ESC-1000.bw
+shortLabel K9ac Signal
+longLabel K9ac Signal of mES(1000Cell)
+type bigWig
+
+track mES-5000
+bigDataUrl K9-ESC-5000.bw
+shortLabel K9ac Signal
+longLabel K9ac Signal of mES(5000Cell)
+type bigWig
+
+track mES-10000
+bigDataUrl K9-ESC-1e5.bw
+shortLabel K9ac Signal
+longLabel K9ac Signal of mES(10000Cell)
+type bigWig
+
+track mES-ENCODE
+bigDataUrl mES-Bruce4.bw
+shortLabel K9ac Signal
+longLabel K9ac Signal of mES(ENCODE)
+type bigWig

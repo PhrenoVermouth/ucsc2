@@ -1,6 +1,6 @@
 track mES-100
 bigDataUrl K9-ESC-100.bw
-shortLabel K9ac Signal
+shortLabel 100 cell
 longLabel K9ac Signal of mES(100Cell)
 type bigWig
 windowingFunction mean+whiskers
@@ -11,7 +11,7 @@ viewLimitsMax 0:128
 
 track mES-200
 bigDataUrl K9-ESC-200.bw
-shortLabel K9ac Signal
+shortLabel 200 cell
 longLabel K9ac Signal of mES(200Cell)
 type bigWig
 windowingFunction mean+whiskers
@@ -22,7 +22,7 @@ viewLimitsMax 0:128
 
 track mES-500
 bigDataUrl K9-ESC-500.bw
-shortLabel K9ac Signal
+shortLabel 500 cell
 longLabel K9ac Signal of mES(500Cell)
 type bigWig
 windowingFunction mean+whiskers
@@ -33,7 +33,7 @@ viewLimitsMax 0:128
 
 track mES-1000
 bigDataUrl K9-ESC-1000.bw
-shortLabel K9ac Signal
+shortLabel 1000 cell
 longLabel K9ac Signal of mES(1000Cell)
 type bigWig
 windowingFunction mean+whiskers
@@ -44,7 +44,7 @@ viewLimitsMax 0:128
 
 track mES-5000
 bigDataUrl K9-ESC-5000.bw
-shortLabel K9ac Signal
+shortLabel 5000 cell
 longLabel K9ac Signal of mES(5000Cell)
 type bigWig
 windowingFunction mean+whiskers
@@ -55,7 +55,7 @@ viewLimitsMax 0:128
 
 track mES-10000
 bigDataUrl K9-ESC-1e5.bw
-shortLabel K9ac Signal
+shortLabel 10000 cell
 longLabel K9ac Signal of mES(10000Cell)
 type bigWig
 windowingFunction mean+whiskers
@@ -66,7 +66,7 @@ viewLimitsMax 0:128
 
 track mES-ENCODE
 bigDataUrl mES-Bruce4.bw
-shortLabel K9ac Signal
+shortLabel ENCODE
 longLabel K9ac Signal of mES(ENCODE)
 type bigWig
 windowingFunction mean+whiskers

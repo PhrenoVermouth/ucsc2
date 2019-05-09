@@ -2,3 +2,6 @@ mES-Bruce4.bw filter=lfs diff=lfs merge=lfs -text
 K9-ESC-1e5.bw filter=lfs diff=lfs merge=lfs -text
 K9-ESC-500.bw filter=lfs diff=lfs merge=lfs -text
 K9-ESC-5000.bw filter=lfs diff=lfs merge=lfs -text
+K9-ESC-100.bw filter=lfs diff=lfs merge=lfs -text
+K9-ESC-1000.bw filter=lfs diff=lfs merge=lfs -text
+K9-ESC-200.bw filter=lfs diff=lfs merge=lfs -text

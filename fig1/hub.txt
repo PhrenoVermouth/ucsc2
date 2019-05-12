@@ -1,0 +1,5 @@
+hub mm_ac
+shortLabel mouse gamete embryo acetylation
+longLabel ChIP-seq data of mice gametes and embryos
+genomesFile genome.txt
+email yg942464@gmail.com

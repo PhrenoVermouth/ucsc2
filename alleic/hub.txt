@@ -1,0 +1,5 @@
+hub snp_mm_ac
+shortLabel SNP-splitted mouse embryo acetylation
+longLabel SNP-splitted signal ChIP-seq data of mice gametes and embryos
+genomesFile genome.txt
+email yg942464@gmail.com

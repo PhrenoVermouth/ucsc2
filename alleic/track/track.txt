@@ -179,4 +179,4 @@ track DBA-SNP
 bigDataUrl dba_snp.bigbed
 shortLabel dba-snp
 longLabel SNP of DBA strain
-type bed
+type bigBed

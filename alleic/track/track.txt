@@ -178,5 +178,5 @@ viewLimitsMax 0:128
 track DBA-SNP
 bigDataUrl dba-snp.bed
 shortLabel dba-snp
-longLabel
+longLabel dba-snp
 type bed

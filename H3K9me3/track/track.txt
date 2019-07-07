@@ -1,0 +1,133 @@
+track k9me3-m2
+bigDataUrl MII_Oocyte_H3K9me3.bw
+shortLabel MII Oocyte
+longLabel K9me3 Signal of MII Oocyte
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,0
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track k9me3-zygote
+bigDataUrl zygote_H3K9me3.bw
+shortLabel zygote
+longLabel K9me3 Signal of zygote
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,0
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track k9me3-e2C
+bigDataUrl Early_2-cell_H3K9me3.bw
+shortLabel Early 2cell
+longLabel K9me3 Signal of early 2cell
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,0
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track k9me3-l2C
+bigDataUrl Late_2-cell_H3K9me3.bw
+shortLabel Late 2cell
+longLabel K9me3 Signal of late 2cell
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,0
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track k9me3-4C
+bigDataUrl 4-cell_H3K9me3.bw
+shortLabel 4cell
+longLabel K9me3 Signal of 4cell
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,0
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track k9me3-8C
+bigDataUrl 8-cell_H3K9me3.bw
+shortLabel 8cell
+longLabel K9me3 Signal of 8cell
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,0
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track k9me3-morula
+bigDataUrl morula_H3K9me3.bw
+shortLabel morula
+longLabel K9me3 Signal of morula
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,0
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track k9me3-ICM
+bigDataUrl ICM_H3K9me3.bw
+shortLabel ICM
+longLabel K9me3 Signal of ICM
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,0
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track k9me3-TE
+bigDataUrl TE_H3K9me3.bw
+shortLabel TE
+longLabel K9me3 Signal of TE
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,0
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track k9me3-ESC
+bigDataUrl ESC_H3K9me3.bw
+shortLabel ESC
+longLabel K9me3 Signal of ESC
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,0
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track k9me3-TSC
+bigDataUrl TSC_H3K9me3.bw
+shortLabel TSC
+longLabel K9me3 Signal of TSC
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,0
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track k9me3-sperm
+bigDataUrl sperm_H3K9me3.bw
+shortLabel sperm
+longLabel K9me3 Signal of sperm
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,0
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+

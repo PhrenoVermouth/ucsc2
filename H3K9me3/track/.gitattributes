@@ -1,0 +1,12 @@
+zygote_H3K9me3.bw filter=lfs diff=lfs merge=lfs -text
+MII_Oocyte_H3K9me3.bw filter=lfs diff=lfs merge=lfs -text
+sperm_H3K9me3.bw filter=lfs diff=lfs merge=lfs -text
+ESC_H3K9me3.bw filter=lfs diff=lfs merge=lfs -text
+Early_2-cell_H3K9me3.bw filter=lfs diff=lfs merge=lfs -text
+ICM_H3K9me3.bw filter=lfs diff=lfs merge=lfs -text
+Late_2-cell_H3K9me3.bw filter=lfs diff=lfs merge=lfs -text
+TE_H3K9me3.bw filter=lfs diff=lfs merge=lfs -text
+TSC_H3K9me3.bw filter=lfs diff=lfs merge=lfs -text
+4-cell_H3K9me3.bw filter=lfs diff=lfs merge=lfs -text
+8-cell_H3K9me3.bw filter=lfs diff=lfs merge=lfs -text
+morula_H3K9me3.bw filter=lfs diff=lfs merge=lfs -text

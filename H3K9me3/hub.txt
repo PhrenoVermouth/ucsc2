@@ -1,0 +1,5 @@
+hub mm_k9me3
+shortLabel mouse embryo k9me3
+longLabel Wangchenfei2018 NCB k9me3 
+genomesFile genome.txt
+email yg942464@gmail.com

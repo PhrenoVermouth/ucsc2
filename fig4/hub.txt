@@ -1,0 +1,5 @@
+hub mm_k9me3
+shortLabel mouse SCNT embryo k9ac
+longLabel mouse SCNT k9ac 
+genomesFile genome.txt
+email yg942464@gmail.com

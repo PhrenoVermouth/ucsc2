@@ -1,0 +1,8 @@
+K9-NT-l2c-rep2.bw filter=lfs diff=lfs merge=lfs -text
+K9-NT-morula-rep1.bw filter=lfs diff=lfs merge=lfs -text
+K9-NT-morula-rep2.bw filter=lfs diff=lfs merge=lfs -text
+K9-NT-morula-rep3.bw filter=lfs diff=lfs merge=lfs -text
+K9-NT-14H-rep1.bw filter=lfs diff=lfs merge=lfs -text
+K9-NT-e2c-rep1.bw filter=lfs diff=lfs merge=lfs -text
+K9-NT-e2c-rep2.bw filter=lfs diff=lfs merge=lfs -text
+K9-NT-l2c-rep1.bw filter=lfs diff=lfs merge=lfs -text

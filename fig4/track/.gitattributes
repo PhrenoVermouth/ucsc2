@@ -6,3 +6,10 @@ K9-NT-14H-rep1.bw filter=lfs diff=lfs merge=lfs -text
 K9-NT-e2c-rep1.bw filter=lfs diff=lfs merge=lfs -text
 K9-NT-e2c-rep2.bw filter=lfs diff=lfs merge=lfs -text
 K9-NT-l2c-rep1.bw filter=lfs diff=lfs merge=lfs -text
+K9-NTTSA-l2c_merged.bw filter=lfs diff=lfs merge=lfs -text
+K9-NTTSA-zygote_merged.bw filter=lfs diff=lfs merge=lfs -text
+K9-PN5_merged.bw filter=lfs diff=lfs merge=lfs -text
+K9-NT-e2c_merged.bw filter=lfs diff=lfs merge=lfs -text
+K9-NT-l2c_merged.bw filter=lfs diff=lfs merge=lfs -text
+K9-NT-morula_merged.bw filter=lfs diff=lfs merge=lfs -text
+K9-NT-zygote_merged.bw filter=lfs diff=lfs merge=lfs -text

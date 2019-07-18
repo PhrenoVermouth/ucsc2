@@ -9,13 +9,3 @@ maxHeightPixels 90:90:8
 viewLimits 0:90
 viewLimitsMax 0:128
 
-track NT-1C
-bigDataUrl K9-NT-14H-rep1.bw
-shortLabel zygote
-longLabel K9ac Signal of SCNT-14h embryo
-type bigWig
-windowingFunction mean+whiskers
-color 0,0,0
-maxHeightPixels 90:90:8
-viewLimits 0:90
-viewLimitsMax 0:128

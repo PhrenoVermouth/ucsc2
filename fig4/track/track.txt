@@ -1,11 +1,87 @@
 track NT-1C
-bigDataUrl K9-NT-14H-rep1.bw
-shortLabel zygote
-longLabel K9ac Signal of SCNT-14h embryo
+bigDataUrl K9-NT-zygote_merged.bw
+shortLabel NT-1C
+longLabel K9ac Signal of NT-1C embryo
 type bigWig
 windowingFunction mean+whiskers
-color 0,0,0
+color 255,130,71
 maxHeightPixels 90:90:8
 viewLimits 0:90
 viewLimitsMax 0:128
 
+track NT-e2C
+bigDataUrl K9-NT-e2c_merged.bw
+shortLabel NT-e2C
+longLabel K9ac Signal of NT-e2C embryo
+type bigWig
+windowingFunction mean+whiskers
+color 255,130,71
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track NT-l2C
+bigDataUrl K9-NT-l2c_merged.bw
+shortLabel NT-l2C
+longLabel K9ac Signal of NT-l2C embryo
+type bigWig
+windowingFunction mean+whiskers
+color 255,130,71
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track NT-morula
+bigDataUrl K9-NT-morula_merged.bw
+shortLabel NT-morula
+longLabel K9ac Signal of NT-morula embryo
+type bigWig
+windowingFunction mean+whiskers
+color 255,130,71
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track CC
+bigDataUrl K9-CC_merged.bw
+shortLabel CC
+longLabel K9ac Signal of CC embryo
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,128
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track NTTSA-l2C
+bigDataUrl K9-NTTSA-l2c_merged.bw
+shortLabel NTTSA-l2C
+longLabel K9ac Signal of NTTSA-l2C embryo
+type bigWig
+windowingFunction mean+whiskers
+color 	255,48,48
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track NTTSA-1c
+bigDataUrl K9-NTTSA-zygote_merged.bw
+shortLabel NTTSA-1C
+longLabel K9ac Signal of NTTSA-1C embryo
+type bigWig
+windowingFunction mean+whiskers
+color 255,48,48
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track WT-PN5
+bigDataUrl K9-PN5_merged.bw
+shortLabel WT-PN5
+longLabel K9ac Signal of WT-PN5 embryo
+type bigWig
+windowingFunction mean+whiskers
+color 255,215,0
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128

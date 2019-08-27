@@ -1,0 +1,5 @@
+hub mm_k4me3
+shortLabel mouse WT embryo k4me3
+longLabel mouse WT k4me3 
+genomesFile genome.txt
+email yg942464@gmail.com

@@ -1,7 +1,7 @@
-track NT-1C
-bigDataUrl K9-NT-zygote_merged.bw
-shortLabel NT-1C
-longLabel K9ac Signal of NT-1C embryo
+track WT-1C
+bigDataUrl zygote-H3K4me3.bw
+shortLabel WT-1C
+longLabel K4me3 Signal of WT-1C embryo
 type bigWig
 windowingFunction mean+whiskers
 color 255,130,71
@@ -9,10 +9,10 @@ maxHeightPixels 90:90:8
 viewLimits 0:90
 viewLimitsMax 0:128
 
-track NT-e2C
-bigDataUrl K9-NT-e2c_merged.bw
-shortLabel NT-e2C
-longLabel K9ac Signal of NT-e2C embryo
+track WT-l2C
+bigDataUrl 2-cell-H3K4me3.bw
+shortLabel WT-l2C
+longLabel K4me3 Signal of WT-l2C embryo
 type bigWig
 windowingFunction mean+whiskers
 color 255,130,71
@@ -20,10 +20,10 @@ maxHeightPixels 90:90:8
 viewLimits 0:90
 viewLimitsMax 0:128
 
-track NT-l2C
-bigDataUrl K9-NT-l2c_merged.bw
-shortLabel NT-l2C
-longLabel K9ac Signal of NT-l2C embryo
+track WT-4C
+bigDataUrl 4-cell-H3K4me3.bw
+shortLabel WT-4C
+longLabel K4me3 Signal of WT-4C embryo
 type bigWig
 windowingFunction mean+whiskers
 color 255,130,71
@@ -31,10 +31,10 @@ maxHeightPixels 90:90:8
 viewLimits 0:90
 viewLimitsMax 0:128
 
-track NT-morula
-bigDataUrl K9-NT-morula_merged.bw
-shortLabel NT-morula
-longLabel K9ac Signal of NT-morula embryo
+track WT-8C
+bigDataUrl 8-cell-H3K4me3.bw
+shortLabel WT-8C
+longLabel K4me3 Signal of WT-8C embryo
 type bigWig
 windowingFunction mean+whiskers
 color 255,130,71
@@ -42,46 +42,46 @@ maxHeightPixels 90:90:8
 viewLimits 0:90
 viewLimitsMax 0:128
 
-track CC
-bigDataUrl K9-CC_merged.bw
-shortLabel CC
-longLabel K9ac Signal of CC embryo
+track WT-morula
+bigDataUrl morula-H3K4me3.bw
+shortLabel WT-morula
+longLabel K4me3 Signal of WT-morula embryo
 type bigWig
 windowingFunction mean+whiskers
-color 0,0,128
+color 255,130,71
 maxHeightPixels 90:90:8
 viewLimits 0:90
 viewLimitsMax 0:128
 
-track NTTSA-l2C
-bigDataUrl K9-NTTSA-l2c_merged.bw
-shortLabel NTTSA-l2C
-longLabel K9ac Signal of NTTSA-l2C embryo
+track WT-ICM
+bigDataUrl ICM-H3K4me3.bw
+shortLabel WT-ICM
+longLabel K4me3 Signal of WT-ICM embryo
 type bigWig
 windowingFunction mean+whiskers
-color 	255,48,48
+color 255,130,71
 maxHeightPixels 90:90:8
 viewLimits 0:90
 viewLimitsMax 0:128
 
-track NTTSA-1c
-bigDataUrl K9-NTTSA-zygote_merged.bw
-shortLabel NTTSA-1C
-longLabel K9ac Signal of NTTSA-1C embryo
+track WT-TE
+bigDataUrl TE-H3K4me3.bw
+shortLabel WT-TE
+longLabel K4me3 Signal of WT-TE embryo
 type bigWig
 windowingFunction mean+whiskers
-color 255,48,48
+color 255,130,71
 maxHeightPixels 90:90:8
 viewLimits 0:90
 viewLimitsMax 0:128
 
-track WT-PN5
-bigDataUrl K9-PN5_merged.bw
-shortLabel WT-PN5
-longLabel K9ac Signal of WT-PN5 embryo
+track WT-MII
+bigDataUrl MII-Oocyte-H3K4me3.bw
+shortLabel WT-MII
+longLabel K4me3 Signal of Oocytes
 type bigWig
 windowingFunction mean+whiskers
-color 255,215,0
+color 255,130,71
 maxHeightPixels 90:90:8
 viewLimits 0:90
 viewLimitsMax 0:128

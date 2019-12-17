@@ -98,7 +98,7 @@ viewLimits 0:90
 viewLimitsMax 0:128
 
 track NT-Dux_DelC_OE-2e
-bigDataUrl Dux△C_OE-2e.bw
+bigDataUrl NT-Dux_DelC_OE-2e.bw
 shortLabel NT-Dux△COE-2e
 longLabel K9ac Signal of NT-Dux△COE-2e embryo
 type bigWig
